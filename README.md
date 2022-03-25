@@ -11,11 +11,7 @@
   * [Web Design for Everybody: Basics of Web Development & Coding | Jun 2021](https://www.coursera.org/account/accomplishments/specialization/certificate/AJV88YUAYFFE)
   * [Software Development Lifecycle | Oct 2021](https://www.coursera.org/account/accomplishments/specialization/certificate/VFAXD6MA2FR7)
   * [ACADEMIC PREPARATORY ENGLISH | Dec 2020](https://fap.fpt.edu.vn/Report/Awa.aspx?id=wrxojWToq34%3d)
-<<<<<<< HEAD
-  * [IELTS | Apr 2019]()
-=======
-  
->>>>>>> 152e5e4b353647dbf4cb965fa8b4a0e5357f367d
+  * [IELTS | Apr 2019](https://raw.githubusercontent.com/thangtn2101/Awards-Certificate/main/Certificate/1.jpg)
 * README.md file to demo how to show a description of a repo by default
 
 
